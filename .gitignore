@@ -1,0 +1,12 @@
+lenses/
+*.tgz
+sample_data/
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+venv/
+.venv/
+env/
+.env/
+*.keras
+*.h5
